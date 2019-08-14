@@ -1,4 +1,13 @@
+<h1 align='center'>Dad Jokes - React App</h1>
+
+<p align='center'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React' width=500 height=auto />
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project Preview
+
 
 ## Available Scripts
 
