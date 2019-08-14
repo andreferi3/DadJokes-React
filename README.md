@@ -7,7 +7,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Preview
-
+<p align='center'>
+  <img src='https://github.com/andreferi3/DadJokes-React/blob/master/Screen%20Shot%202019-08-14%20at%2021.53.17.png' alt='Preview App' />
+</p>
 
 ## Available Scripts
 
